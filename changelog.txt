@@ -1,0 +1,7 @@
+Updates on AWS template:
+
+1.2 February 12, ‘13)
+Fixes for reported UTF-8 problems
+
+1.1 (January 12, ‘13)
+CSS fix for some responsive functionality
